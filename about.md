@@ -3,8 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-Hey, I am Gregor and this is my personal blog/website. Currently, I am an Industrial Engineering and Management student at [KIT](https://www.kit.edu/).
-In addition to my studies, I work as a Research Assistant at [Forschungszentrum Informatik](http://fzi.de/), where I am focusing on Natural Language Processing (NLP) and Machine Learning (ML).
+Hey, I am Gregor and this is my personal blog/website. Currently, I am an Industrial Engineering and Management student at [KIT](https://www.kit.edu/english/index.php). In addition to my studies, I work as a Research Assistant at [Forschungszentrum Informatik](https://www.fzi.de/en/home/), where I am focusing on Natural Language Processing (NLP) and Machine Learning (ML).
 
 My goal is to understand complex concepts clearly and visualize and explain them well to interested people outside of the NLP/ML area, as I think that everyone should have a basic understanding of the fast progress made in that field recently. I believe in the tremendous impact those technologies will have not only on different industries but also on our society and that they will help us to understand intelligence in general.
 
