@@ -16,7 +16,7 @@ My research interests include:
 * 
 -->
 
-Before starting my Tech journey, I gained practical experience as a Managing Director at delta Karlsruhe GmbH, as an intern at Daimler, where I lead a large IT project team in the production space and a self-employed management consultant. I am offering my services as a self-employed management consultant in the following areas:
+Before starting my Tech journey, I gained practical experience as a Managing Director at [delta Karlsruhe GmbH](https://delta-karlsruhe.de/), as an intern at [Daimler](https://www.daimler.com/), where I lead a large IT project team in the production space and as a self-employed management consultant. I am offering my services as a self-employed management consultant in the following areas:
 
 * IT Strategy
 * Data Analytics and Visualization
